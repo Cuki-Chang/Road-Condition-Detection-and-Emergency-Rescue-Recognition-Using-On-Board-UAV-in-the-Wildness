@@ -11,3 +11,7 @@ Liu, Chang, and Tamás Szirányi. 2022. "Road Condition Detection and Emergency 
 https://github.com/zlckanata/DeepGlobe-Road-Extraction-Challenge 
 #### 4.NDVI and Road condition calssification
 #### 5.Weighted A star algorithm for Route Planning
+#### 5.Emergency gesture recognition
+please refers to our Human-Drone Communication Repository 
+https://github.com/Cuki-Chang/Human-Drone-communication
+
