@@ -3,7 +3,7 @@ This is the code implementation of the paper titled "Road-Condition-Detection-an
 
 ## Citations
 ### Please cite us if you use our programs.
-Liu, Chang, and Tamás Szirányi. 2022. "Road Condition Detection and Emergency Rescue Recognition Using On-Board UAV in the Wildness" Remote Sensing 14, no. 17: 4355. https://doi.org/10.3390/rs14174355
+Liu, Chang, and Tamás Szirányi. 2022. "Road Condition Detection and Emergency Rescue Recognition Using On-Board UAV in the Wildness" Remote Sensing 14, no. 17: 4355. 
 
 #### 1.Drone real-time video processing 
 #### 2.Resize drone images 
@@ -13,5 +13,6 @@ https://github.com/zlckanata/DeepGlobe-Road-Extraction-Challenge
 #### 5.Weighted A star algorithm for Route Planning
 #### 5.Emergency gesture recognition
 please refers to our Human-Drone Communication Repository 
+
 https://github.com/Cuki-Chang/Human-Drone-communication
 
