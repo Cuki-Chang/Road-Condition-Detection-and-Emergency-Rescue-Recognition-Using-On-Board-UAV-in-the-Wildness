@@ -21,3 +21,5 @@ please refers to our Human-Drone Communication Repository
 
 https://github.com/Cuki-Chang/Human-Drone-communication
 
+Datasets and models:
+please contact changliu@hit.bme.hu
