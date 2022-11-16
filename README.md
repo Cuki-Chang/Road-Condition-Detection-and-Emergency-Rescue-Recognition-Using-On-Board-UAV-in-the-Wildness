@@ -1,5 +1,12 @@
-# Road-Condition-Detection-and-Emergency-Rescue-Recognition-Using-On-Board-UAV-in-the-Wildness
-Code repository for "Road Condition Detection and Emergency Rescue Recognition Using On-Board UAV in the Wildness" Remote Sensing 14 (17), 4355, 2022
+# UAV-Path-Planning-based-on-Road-Extraction
+This is the code implementation of the paper titled "UAV Path Planning based on Road Extraction" https://www.scitepress.org/Link.aspx?doi=10.5220/0011089900003209
 
+## Citations
+### Please cite us if you use our programs.
+Liu, C. and Szirányi, T., 2022. UAV Path Planning based on Road Extraction. In IMPROVE (pp. 202-210).
 
-Uploading soon :)
+#### 1.Drone real-time video processing (Drone-vid2img.py)
+#### 2.Resize drone images (Resize.py)
+#### 3.Use D-linkedNet for road network extraction
+https://github.com/zlckanata/DeepGlobe-Road-Extraction-Challenge 
+#### 4.Weighted A star algorithm for Route Planning (main.py)
