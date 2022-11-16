@@ -3,7 +3,7 @@ from sentinelsat import SentinelAPI, read_geojson, geojson_to_wkt
 from datetime import date
 
 
-api = SentinelAPI('zhumorui', 'Xylzmr@520', 'https://apihub.copernicus.eu/apihub')
+api = SentinelAPI('username', 'password', 'https://apihub.copernicus.eu/apihub')
 
 # search by polygon, time, and SciHub query keywords
 footpoint = geojson_to_wkt(read_geojson('map.geojson'))
